@@ -3,6 +3,14 @@
     background-color: #1E1E1E;
 }
 
+div.page_header
+{
+    width: auto;
+    height: auto;
+    text-align: left;
+    background-color: #BEBEB9;
+}
+
 h1
 {
     color: #FFFF00;
@@ -36,9 +44,3 @@ p
     padding-right: 100;
 }
 
-div.page_header
-{
-    width: auto;
-    height: 80;
-    background-color: #BEBEB9;
-}
