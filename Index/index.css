@@ -5,42 +5,92 @@
 
 div.page_header
 {
-    width: auto;
+    width: 2560;
     height: auto;
     text-align: left;
-    background-color: #BEBEB9;
+    background-color: #FFFFFF;
 }
 
-h1
+img.title_img
+{
+    overflow: hidden;
+    max-width: 940;
+    max-height: 630;
+    margin-left: 1200;
+    margin-top: -200;
+    padding-left: 0%;
+}
+
+div.page_title
 {
     color: #FFFF00;
-    font-size: 70;
+    font-size: 38;
     font-weight: bold;
     text-align: center;
 }
 
-h2
+div.page_subtitle
 {
     color: #FFFFFF;
-    font-size: 38;
+    font-size: 30;
     text-align: center;
     font-weight: bold;
 }
 
-h3
+div.tip_one
 {
     color: #FFCC00;
-    font-size: 38;
+    font-size: 28;
     text-align: center;
     font-weight: 400;
+    padding-right: 60%;
+    padding-left: 5%;
 }
-
-p
+div.p_1
 {
     color: #FFFFFF;
     font-size: 18;
     text-align: center;
-    padding-left: 100;
-    padding-right: 100;
+    padding-right: 60%;
+    padding-left: 5%;
 }
 
+div.tip_two
+{
+    color: #FFCC00;
+    font-size: 28;
+    text-align: center;
+    font-weight: 400;
+}
+
+div.tip_three
+{
+    color: #FFCC00;
+    font-size: 28;
+    text-align: center;
+    font-weight: 400;
+}
+
+div.tip_four
+{
+    color: #FFCC00;
+    font-size: 28;
+    text-align: center;
+    font-weight: 400;
+}
+
+div.tip_five
+{
+    color: #FFCC00;
+    font-size: 28;
+    text-align: center;
+    font-weight: 400;
+}
+
+div.page_footer
+{
+    width: auto;
+    height: auto;
+    text-align: center;
+    background-color: #FFFFFF;
+}
